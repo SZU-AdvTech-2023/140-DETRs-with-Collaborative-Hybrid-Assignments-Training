@@ -1,0 +1,7 @@
+@inproceedings{REPO140,
+    author = "Zong, Zhuofan and Song, Guanglu and Liu, Yu",
+    booktitle = "Proceedings of the IEEE/CVF international conference on computer vision",
+    pages = "6748--6758",
+    title = "{Detrs with Collaborative Hybrid Assignments Training}",
+    year = "2023"
+}
